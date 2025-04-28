@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Frontend Engineer in Progress </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Frontend Developer with a passion for building user<li>friendly web experiences using React, Next.js, and Three.js. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Frontend Developer with a passion for building user friendly web experiences using React, Next.js, and Three.js. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -31,8 +31,9 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div align= "center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyebinkimsdf&layout=compact&bg_color=60,314ee3,2fdad7&title_color=ffffff&text_color=ffffff"
+           /> <br/>
             <img src="https://github-readme-stats.vercel.app/api?username=hyebinkimsdf&bg_color=60,314ee3,2fdad7&title_color=ffffff&text_color=ffffff"/> 
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyebinkimsdf&layout=compact&bg_color=60,314ee3,2fdad7&title_color=ffffff&text_color=ffffff"z
-           /> </div> 
+            </div> 
     </div>
     
