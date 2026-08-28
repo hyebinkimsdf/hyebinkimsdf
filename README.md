@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5ef7,100:8affc8&height=200&text=Hyebin%20Kim&animation=fadeIn&fontColor=ffffff&fontSize=40&desc=I%20learn%20quickly,%20think%20deeply,%20and%20keep%20growing%20like%20flowing%20water%20%E2%80%94%20always%20moving%20forward.&descSize=16&descColor=ffffff&descAlign=50&descAlignY=65"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5ef7,100:8affc8&height=280&text=Hyebin%20Kim&animation=fadeIn&fontColor=ffffff&fontSize=40&desc=I%20learn%20quickly,%20think%20deeply,%20and%20keep%20growing%20like%20flowing%20water%20%E2%80%94%20always%20moving%20forward.&descSize=16&descColor=ffffff&descAlign=50&descAlignY=65"
   width="100%"
 />
 
