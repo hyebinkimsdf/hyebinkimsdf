@@ -1,78 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5ef7,100:8affc8&height=180&text=Hyebin%20Kim&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5ef7,100:8affc8&height=180&text=Hyebin%20Kim&animation=fadeIn&fontColor=ffffff&fontSize=40"
+  width="100%"
+/>
 
 ### Frontend / Web Developer
 
 React · Next.js · TypeScript
 
-<br>
+<br />
 
-<a href="https://aidevdesign.com">Portfolio</a> · <a href="https://www.linkedin.com/in/hyebin-kim-18a94b31b/">LinkedIn</a> · <a href="mailto:hyebinkimdesign@gmail.com">Email</a>
+<a href="https://aidevdesign.com">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/hyebin-kim-18a94b31b/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:hyebindesign@gmail.com">Email</a>
 
 </div>
 
----
+<br />
 
-## Stack
+## STACK
 
-### Frontend
+<table>
+<tr>
+<td><b>Frontend</b></td>
+<td>
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/SWR-000000?style=flat-square&logo=swr&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/SWR-000000?style=flat-square&logo=swr&logoColor=white">
 
-### Backend / Database
+</td>
+</tr>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
+<tr>
+<td><b>Backend / Database</b></td>
+<td>
 
-### Infrastructure
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
 
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+</td>
+</tr>
 
----
+<tr>
+<td><b>Infrastructure</b></td>
+<td>
 
-## Projects
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 
-| Project          | Stack                            | Link                                                         |
-| :--------------- | :------------------------------- | :----------------------------------------------------------- |
-| **삼화회계법인**       | Next.js · Prisma · MySQL         | [View](https://aidevdesign.com/#work)                        |
-| **LG Best Shop** | Next.js · Cloudflare             | [View](https://www.lgshop-ys.com/)                           |
-| **위드빌 댄스학원**     | Next.js · Cloudflare D1 · Vercel | [View](https://www.withbilldanceacademy.com/)                |
-| **글로벌엠아이지**      | PHP · MySQL · Cloudflare         | [View](https://www.weasley-market.com/homepage-development/) |
+</td>
+</tr>
+</table>
 
----
+<br />
 
-## GitHub Stats
+## PROJECTS
+
+<table>
+<thead>
+<tr>
+<th>만든 것</th>
+<th>왜</th>
+<th>기술 스택</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>
+<a href="https://aidevdesign.com/#work">
+삼화회계법인
+</a>
+</td>
+
+<td>
+정부 R&D 과제 수수료 정산 업무를 웹으로 관리하기 위해
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.lgshop-ys.com/">
+LG Best Shop
+</a>
+</td>
+
+<td>
+가전 구독·렌탈 상담을 온라인에서 쉽게 연결하기 위해
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.withbilldanceacademy.com/">
+위드빌 댄스학원
+</a>
+</td>
+
+<td>
+클래스와 시간표를 확인하고 상담까지 이어질 수 있도록
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.weasley-market.com/homepage-development/">
+글로벌엠아이지
+</a>
+</td>
+
+<td>
+홈페이지 제작 서비스를 소개하고 견적 문의를 받기 위해
+</td>
+
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<br />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hyebinkimsdf&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyebinkimsdf&layout=compact&hide_border=true&theme=transparent" />
+<a href="https://aidevdesign.com/#work">
+View all projects →
+</a>
 
 </div>
+
+<br />
 
 ---
 
