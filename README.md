@@ -102,7 +102,7 @@ React · Next.js · TypeScript
 
 <tr>
 <td>
-<a href="https://www.lgshop-ys.com/">
+<a href="https://lg-official-subspace.com/">
 LG Best Shop
 </a>
 </td>
