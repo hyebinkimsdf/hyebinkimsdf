@@ -15,7 +15,7 @@ React · Next.js · TypeScript
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/hyebin-kim-18a94b31b/">LinkedIn</a>
 &nbsp; · &nbsp;
-<a href="mailto:hyebindesign@gmail.com">Email</a>
+
 
 </div>
 
